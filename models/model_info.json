@@ -1,0 +1,16 @@
+{
+  "model_name": "expense_classifier",
+  "version": "1.0",
+  "input_shape": [1, 128],
+  "output_shape": [1, 8],
+  "categories": [
+    "Food & Dining",
+    "Transportation",
+    "Utilities & Bills",
+    "OTT Platforms & Entertainment",
+    "Shopping",
+    "Healthcare",
+    "Education",
+    "Others"
+  ]
+}
